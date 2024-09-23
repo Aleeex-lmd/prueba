@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 prueba
+=======
+aaaaaaaa
+>>>>>>> segunda
+<<<<<<< HEAD
+prueba
+=======
+aaaaaaaa
+>>>>>>> segunda
